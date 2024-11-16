@@ -1,8 +1,4 @@
-https://sub123.71345.xyz/api/v1/client/subscribe?token=7eb7f9c181fe90a98a53d28b1a905b5d
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=b34b2e4e8eeec829e368fd631b20fbd1
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://mc.jiedianxielou.workers.dev
-https://1.bethebest.eu.org/api/v1/client/subscribe?token=ef027a5bfc788a6b7eddcc859a078b14
-https://nuonuonet.uk/api/v1/client/subscribe?token=96a57e2c509347ae3eacc1d25326b933
-https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://dxapp.jmvks.cn/api/v1/client/subscribe?token=e29720c6300475f1248037aecc71cfc8#%E5%A4%A7%E7%86%8A%F0%9F%90%BB
+https://zlxz.80jm.com/api/v1/client/subscribe?token=4d6d5c35e94119dfd0c71c6b2793ad62
+https://mc.jiedianxielou.workers.dev/
+https://get.ninesub.us.kg/api/v1/client/subscribe?token=9be727d513abd796221c19d6416bd31c
