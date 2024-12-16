@@ -1,8 +1,5 @@
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=1eb99cf82ea0e8893f2a57f7b1a3a72c&amp;flag=clash
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
-https://ch.owokkvsxks.store/api/v1/client/subscribe?token=ad180e3b9514176a8cb26bf2962d5f1e
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=aa997fc3d60f190eb00e4ed89528ca3a
+https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
