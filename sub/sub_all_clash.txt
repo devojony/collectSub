@@ -1,6 +1,10 @@
-http://1.1596666.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
-http://vip.365cloud.me/api/v1/client/subscribe?token=9c18a0ec1053e6a65f51dc7cc6493ced
-https://aq.louwangzhiyu.xyz/api/v1/client/subscribe?token=60ea712bdae276ada7d4a60bf98992e4
-https://awacloud.online/api/v1/client/subscribe?token=b2729693ba778553f104da87351a59cf
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=d14d8550cc425bdf8e44e2a6c9951759
-https://study.jaycloud11111.top/study?token=5d89a3256b06717d01ab5d732e2a0e45
+http://1.1598888.xyz/api/v1/client/subscribe?token=1dec5121c95e504f667efe2705e0b1ff
+https://api-zz.xn--14ra41gd24b.xyz/api/v1/client/subscribe?token=3df39719aadc30954859a312a7715447
+https://mo.mojieurl.com/api/v1/client/subscribe?token=9ad15bbfc9b8dc881009a125f14f22aa
+https://pqjc.site/api/v1/client/subscribe?token=5c1ca5c4caf94d93933db460adf7f07e
+https://pqjc.site/api/v1/client/subscribe?token=bd67375d147abe646518376c0653b679&amp;flag=meta
+https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+https://sub.xinyo.vip/api/v1/client/subscribe?token=afab256888ae6487f2287d22b21cb779
+https://subscribe.fastsocks.xyz/api/v1/client/subscribe?token=9f0fb26b13d8f4f3063fcf8c46734523
+https://www.antlink.cc/api/v1/client/subscribe?token=37cbfeff4aa8982ce76315b4d791586c
+https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
