@@ -1,7 +1,5 @@
-https://mc.jiedianxielou.workers.dev/
 https://mc.jiedianxielou.workers.dev
+https://mc.jiedianxielou.workers.dev/
 https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=ssr&amp;trojan
-https://ymzx.jiedianxielou.workers.dev/api/v1/client/subscribe?token=8dfd36317be546ce993d2fc792cbe270
-http://113.31.116.212:13800/api/v1/client/subscribe?token=b5d84c66256755e551704d05600ada67
-http://g3i.buzz/v3/subscr?id=0998cfcf655b4e618b3a267fd3176a7a
-https://server.fylink.link/api/public/sub/8fa7c0881462480d909e6a1875e039e7/FYLink
+https://cm-sub.pz.pe/subscribe/PCAL2H5KC5DZ9H9Z?clash=1
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
