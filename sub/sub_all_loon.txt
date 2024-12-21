@@ -1,4 +1,2 @@
-https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
-https://mc.jiedianxielou.workers.dev/
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://10th.sub-airport.com/api/v1/client/subscribe?token=634cc630b2d8e2f3bba5472c67d2e5a2
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
