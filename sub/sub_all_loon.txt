@@ -1,5 +1,4 @@
-https://sakuracat1203.xn--3iq226gfdb94q.com/api/v1/client/subscribe?token=8174d6b23b52a904b276a7a545370e1b
-https://mc.jiedianxielou.workers.dev
-https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://pavo.eu.org/api/v1/client/subscribe?token=f548cee7fef0b06cbed0983c7cd901d2
-https://ch.louwangzhiyu.xyz/api/v1/client/subscribe?token=04db78dcb0f6b116580df1baea147a54
+https://getinfo.bigwatermelon.org/api/v1/client/subscribe?token=09d09540cc33b58f29a55a0fe686d6a6
+https://mc.jiedianxielou.workers.dev/
+https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
+https://10th.sub-airport.com/api/v1/client/subscribe?token=634cc630b2d8e2f3bba5472c67d2e5a2
