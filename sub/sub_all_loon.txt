@@ -1,6 +1,4 @@
 https://dl.vfkum.website/api/v1/client/subscribe?token=c8684da353178ab2c34d3a16726c4584
 https://mc.jiedianxielou.workers.dev/
-https://mc.jiedianxielou.workers.dev
-https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
-https://s1.bnpublicsub.com/api/v1/client/subscribe?token=0ddb873fe9b1743f95dd8cd8fe890c44
-https://server.fylink.link/api/public/sub/b5d084e828f44f8b8518112cb19939e8/FYLink
+http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
+https://server.fylink.link/api/public/sub/b50f8491769c4c7582115d402b844660/FYLink
