@@ -1,5 +1,13 @@
-http://g3i.buzz/v3/subscr?id=c64d8ba46be149169bb8651d41173901
-https://2381bfde-8c93-4701-8f14-24f071067a1a.nginx24bit.xyz/api/v1/client/subscribe?token=7a34a7e4d092c4bc11064c4ca594a15c
-https://pqjc.site/api/v1/client/subscribe?token=e767135e00a58db0af9ab980ab5bebae
+http://1.1598888.xyz/api/v1/client/subscribe?token=e2c8421cd8543cd904f255fbef4490cd#subscribe?token=e2c8421cd8543cd904f255fbef4490cd
+http://panda.xn--i8sx78aisa52z.com/api/v1/client/subscribe?token=6d6ce997bff58396d7e9760e7a56c3b1
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
+https://pqjc.site/api/v1/client/subscribe?token=3a7b03ae2964652eedc6afab23a4a86c
+https://pqjc.site/api/v1/client/subscribe?token=efffc74cd3815fad0d7a0584ca04595c&amp;flag=meta
+https://d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com/api/v1/client/subscribe?token=9f94bdaabe3a18cbf142101e29f451df
+https://s1.bnsubservdom.com/api/v1/client/subscribe?token=ddb812c71b22cf41f0588e0cc487c077
+https://server.fylink.link/api/public/sub/a40205edd0454a9090e0276f09b36009/FYLink
 https://ss.81dlg.com/dy/ss?token=c0c344484f2e4643cd72e7e438cdb5ad
-https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
+https://sub.lingche.icu/api/v1/client/subscribe?token=48e95450735e7d06d61b56f9bdb349fc&amp;flag=meta
+https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://xsus.wiki/api/v1/client/subscribe?token=d0bd22a534e76a5eb6aca4f3e60b5af5&amp;flag=clash
