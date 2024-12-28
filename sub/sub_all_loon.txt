@@ -1,6 +1,4 @@
-https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
-https://yuyun.yuyun.one/api/v1/client/subscribe?token=03866c2ac68b5a86de0765362e593fbb
-https://login.91unicorn.cc/api/v1/client/subscribe?token=209344eaf3c7b8f8fc5f22e8a44ff771
-https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
-https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
-https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://m4y2z.no-mad-world.club/link/NornheyemazUtarM?clash=3
+https://dy.kuailejc.xyz/api/v1/client/subscribe?token=6523907bc4b84d76f356caf235328de0
+https://b.bbydy.org/api/v1/client/subscribe?token=b5cc7efa2d437b688b2d603da9639090
