@@ -1,6 +1,6 @@
-https://a.aikllc.tech/api/v1/client/subscribe?token=9a6b1bf0dd3469fc0fe3bc79a2b0ba92
-https://www.antlink.cc/api/v1/client/subscribe?token=cef0a82eedec7c8db2bb2d59f0e69109
-https://submit.xz61.cn:23443/api/v1/client/subscribe?token=7bf4252b5e940a087f4f1bb649053427
-https://ch.cukug.website/api/v1/client/subscribe?token=532b5378b3a92070cee1f6aa9cd6f577
-https://www.066664.xyz/api/v1/client/subscribe?token=5ec34216e7bbd89ef9cbe2741ebe3f7d&amp;flag=clash
-https://www.laoniu49.top/api/v1/client/subscribe?token=5a26034d8f260d5c175a4354d8bd5a1a
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=cbb31425affb0704414d28c596a57d0e
+https://yuyun.yuyun.one/api/v1/client/subscribe?token=03866c2ac68b5a86de0765362e593fbb
+https://login.91unicorn.cc/api/v1/client/subscribe?token=209344eaf3c7b8f8fc5f22e8a44ff771
+https://linke.phantasy.life/api/v1/client/subscribe?token=881e3b9aa28e204bf363c94ecc40ff11
+https://server.fylink.link/api/public/sub/0d18e43cbd27444a82b67b9b49b973f0/FYLink
+https://cat.ikkt.cn/api/v1/client/subscribe?token=bf587ad6317f74983bb98612a522a196
